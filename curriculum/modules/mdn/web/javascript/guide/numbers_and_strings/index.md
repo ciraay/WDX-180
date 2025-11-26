@@ -190,60 +190,60 @@ source: https://github.com/in-tech-gration/content/blob/main/files/en-us/web/jav
     </thead>
     <tbody>
       <tr>
-        <td>[abs()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/abs){:target="_blank"}</td>
+        <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/abs" target="_blank">abs()</a></td>
         <td>Absolute value</td>
       </tr>
       <tr>
         <td>
-          [sin()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/sin){:target="_blank"},
-          [cos()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/cos){:target="_blank"},
-          [tan()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/tan){:target="_blank"}
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sin" target="_blank">sin()</a>,
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/cos" target="_blank">cos()</a>,
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/tan" target="_blank">tan()</a>
         </td>
         <td>Standard trigonometric functions; with the argument in radians.</td>
       </tr>
       <tr>
         <td>
-          [asin()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/asin){:target="_blank"},
-          [acos()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/acos){:target="_blank"},
-          [atan()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/atan){:target="_blank"},
-          [atan2()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/atan2){:target="_blank"}
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/asin" target="_blank">asin()</a>,
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/acos" target="_blank">acos()</a>,
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan" target="_blank">atan()</a>,
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2" target="_blank">atan2()</a>
         </td>
         <td>Inverse trigonometric functions; return values in radians.</td>
       </tr>
       <tr>
         <td>
-          [sinh()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/sinh){:target="_blank"},
-          [cosh()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/cosh){:target="_blank"},
-          [tanh()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/tanh){:target="_blank"}
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sinh" target="_blank">sinh()</a>,
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/cosh" target="_blank">cosh()</a>,
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/tanh" target="_blank">tanh()</a>
         </td>
         <td>Hyperbolic functions; argument in hyperbolic angle.</td>
       </tr>
       <tr>
         <td>
-          [asinh()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/asinh){:target="_blank"},
-          [acosh()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/acosh){:target="_blank"},
-          [atanh()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/atanh){:target="_blank"}
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/asinh" target="_blank">asinh()</a>,
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/acosh" target="_blank">acosh()</a>,
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atanh" target="_blank">atanh()</a>
         </td>
         <td>Inverse hyperbolic functions; return values in hyperbolic angle.</td>
       </tr>
       <tr>
         <td>
           <p>
-            [pow()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/pow){:target="_blank"},
-            [exp()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/exp){:target="_blank"},
-            [expm1()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/expm1){:target="_blank"},
-            [log()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/log){:target="_blank"},
-            [log10()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/log10){:target="_blank"},
-            [log1p()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/log1p){:target="_blank"},
-            [log2()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/log2){:target="_blank"}
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow" target="_blank">pow()</a>,
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/exp" target="_blank">exp()</a>,
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/expm1" target="_blank">expm1()</a>,
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/log" target="_blank">log()</a>,
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/log10" target="_blank">log10()</a>,
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/log1p" target="_blank">log1p()</a>,
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/log2" target="_blank">log2()</a>
           </p>
         </td>
         <td>Exponential and logarithmic functions.</td>
       </tr>
       <tr>
         <td>
-          [floor()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/floor){:target="_blank"},
-          [ceil()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/ceil){:target="_blank"}
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor" target="_blank">floor()</a>,
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil" target="_blank">ceil()</a>
         </td>
         <td>
           Returns the largest/smallest integer less/greater than or equal to an
@@ -252,8 +252,8 @@ source: https://github.com/in-tech-gration/content/blob/main/files/en-us/web/jav
       </tr>
       <tr>
         <td>
-          [min()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/min){:target="_blank"},
-          [max()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/max){:target="_blank"}
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min" target="_blank">min()</a>,
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max" target="_blank">max()</a>
         </td>
         <td>
           Returns the minimum or maximum (respectively) value of a comma separated
@@ -261,29 +261,29 @@ source: https://github.com/in-tech-gration/content/blob/main/files/en-us/web/jav
         </td>
       </tr>
       <tr>
-        <td>[random()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/random){:target="_blank"}</td>
+        <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random" target="_blank">random()</a></td>
         <td>Returns a random number between 0 and 1.</td>
       </tr>
       <tr>
         <td>
-          [round()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/round){:target="_blank"},
-          [fround()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/fround){:target="_blank"},
-          [trunc()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/trunc){:target="_blank"},
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round" target="_blank">round()</a>,
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/fround" target="_blank">fround()</a>,
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/trunc" target="_blank">trunc()</a>,
         </td>
         <td>Rounding and truncation functions.</td>
       </tr>
       <tr>
         <td>
-          [sqrt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/sqrt){:target="_blank"},
-          [cbrt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/cbrt){:target="_blank"},
-          [hypot()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/hypot){:target="_blank"}
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sqrt" target="_blank">sqrt()</a>,
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/cbrt" target="_blank">cbrt()</a>,
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/hypot" target="_blank">hypot()</a>
         </td>
         <td>
           Square root, cube root, Square root of the sum of square arguments.
         </td>
       </tr>
       <tr>
-        <td>[sign()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/sign){:target="_blank"}</td>
+        <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sign" target="_blank">sign()</a></td>
         <td>
           The sign of a number, indicating whether the number is positive,
           negative or zero.
@@ -291,7 +291,9 @@ source: https://github.com/in-tech-gration/content/blob/main/files/en-us/web/jav
       </tr>
       <tr>
         <td>
-          [clz32()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/clz32){:target="_blank"},<br />[imul()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Math/imul){:target="_blank"}
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/clz32" target="_blank">clz32()</a>
+          <br/>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/imul" target="_blank">imul()</a>
         </td>
         <td>
           Number of leading zero bits in the 32-bit binary representation.<br />The
@@ -412,11 +414,11 @@ source: https://github.com/in-tech-gration/content/blob/main/files/en-us/web/jav
 
   The following methods are available on [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String){:target="_blank"} values:
 
-  - Query: get the character or character code at a particular string index. Methods include [at()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/at){:target="_blank"}, [charAt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/charAt){:target="_blank"}, [charCodeAt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/charCodeAt){:target="_blank"}, and [codePointAt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/codePointAt){:target="_blank"}.
-  - Search: get information about a substring that conforms to a pattern, or test if a particular substring exists. Methods include [indexOf()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/indexOf){:target="_blank"}, [lastIndexOf()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/lastIndexOf){:target="_blank"}, [startsWith()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/startsWith){:target="_blank"}, [endsWith()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/endsWith){:target="_blank"}, [includes()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/includes){:target="_blank"}, [match()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/match){:target="_blank"}, [matchAll()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/matchAll){:target="_blank"}, and [search()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/search){:target="_blank"}
-  - Composition: combine strings into a longer string. Methods include [padStart()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/padStart){:target="_blank"}, [padEnd()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/padEnd){:target="_blank"}, [concat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/concat){:target="_blank"}, and [repeat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/repeat){:target="_blank"}.
-  - Decomposition: break a string into smaller strings. Methods include [split()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/split){:target="_blank"}, [slice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/slice){:target="_blank"}, [substring()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/substring){:target="_blank"}, [substr()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/substr){:target="_blank"}, [trim()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/trim){:target="_blank"}, [trimStart()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/trimStart){:target="_blank"}, and [trimEnd()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/trimEnd){:target="_blank"}.
-  - Transformation: return a new string based on the current string's content. Methods include [toLowerCase()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/toLowerCase){:target="_blank"}, [toUpperCase()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/toUpperCase){:target="_blank"}, [toLocaleLowerCase()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/toLocaleLowerCase){:target="_blank"}, [toLocaleUpperCase()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/toLocaleUpperCase){:target="_blank"}, [normalize()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/normalize){:target="_blank"}, and [toWellFormed()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/String/toWellFormed){:target="_blank"}.
+  - Query: get the character or character code at a particular string index. Methods include [at()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/at){:target="_blank"}, [charAt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt){:target="_blank"}, [charCodeAt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt){:target="_blank"}, and [codePointAt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/codePointAt){:target="_blank"}.
+  - Search: get information about a substring that conforms to a pattern, or test if a particular substring exists. Methods include [indexOf()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/indexOf){:target="_blank"}, [lastIndexOf()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/lastIndexOf){:target="_blank"}, [startsWith()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith){:target="_blank"}, [endsWith()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/endsWith){:target="_blank"}, [includes()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/includes){:target="_blank"}, [match()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match){:target="_blank"}, [matchAll()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/matchAll){:target="_blank"}, and [search()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/search){:target="_blank"}
+  - Composition: combine strings into a longer string. Methods include [padStart()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart){:target="_blank"}, [padEnd()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padEnd){:target="_blank"}, [concat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat){:target="_blank"}, and [repeat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat){:target="_blank"}.
+  - Decomposition: break a string into smaller strings. Methods include [split()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split){:target="_blank"}, [slice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/slice){:target="_blank"}, [substring()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring){:target="_blank"}, [substr()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substr){:target="_blank"}, [trim()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/trim){:target="_blank"}, [trimStart()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/trimStart){:target="_blank"}, and [trimEnd()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/trimEnd){:target="_blank"}.
+  - Transformation: return a new string based on the current string's content. Methods include [toLowerCase()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase){:target="_blank"}, [toUpperCase()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase){:target="_blank"}, [toLocaleLowerCase()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLocaleLowerCase){:target="_blank"}, [toLocaleUpperCase()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLocaleUpperCase){:target="_blank"}, [normalize()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/normalize){:target="_blank"}, and [toWellFormed()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toWellFormed){:target="_blank"}.
 
   When working with strings, there are two other objects that provide important functionality for string manipulation: [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp){:target="_blank"} and [Intl](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl){:target="_blank"}. They are introduced in [regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions){:target="_blank"} and [internationalization](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Internationalization){:target="_blank"} respectively.
 
